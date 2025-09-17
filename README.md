@@ -1,8 +1,8 @@
- Rainfall Prediction Web App built with HTML, CSS, and JavaScript
+** Rainfall Prediction Web App** built with **HTML, CSS, and JavaScript**
  
  🌧️ Rainfall Prediction Web App
 
-This web application provides real-time rainfall predictions based on user-input weather parameters such as temperature, humidity, and atmospheric pressure. Built with a clean and responsive frontend using **HTML**, **CSS**, and JavaScript, it offers an intuitive interface for users to interact with a machine learning model hosted on a backend server (typically using Flask or Node.js).
+This web application provides real-time rainfall predictions based on user-input weather parameters such as temperature, humidity, and atmospheric pressure. Built with a clean and responsive frontend using **HTML**, **CSS**, and **JavaScript**, it offers an intuitive interface for users to interact with a machine learning model hosted on a backend server.
 
 🔧 Features
 - User Input Form: Users enter weather data like temperature, humidity, and pressure.
