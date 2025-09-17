@@ -1,4 +1,4 @@
-** Rainfall Prediction Web App** built with **HTML, CSS, and JavaScript**
+**Rainfall Prediction Web App** built with **HTML, CSS, and JavaScript**
  
  🌧️ Rainfall Prediction Web App
 
